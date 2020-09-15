@@ -25,7 +25,7 @@ Likewise, recommender system brings great benefits to the businesses. Therefore,
 
 In this project, I will build a recommender system using Deep Learning techniques in Python. 
 
-As of September 15, I started brainstorming project ideas.
+I started brainstorming project ideas on September 15, 2020.
 
 I am expecting to complete this project by December 2020. Stay tuned for the complete version!
 
