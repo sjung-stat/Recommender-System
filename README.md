@@ -1,7 +1,7 @@
 Recommender System
 ================
 
-> Building a recommender system to predict customers' preferences and recommend products
+> Understanding customers' preferences and building a system to recommend the right products
 
 ### Introduction
 
