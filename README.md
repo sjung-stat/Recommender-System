@@ -16,17 +16,14 @@ In other words, this technique enables online businesses to understand their cus
 3. Loyalty
 
 
-Therefore, majority of online businesses are trying to build more accurate recommender systems.
+Likewise, recommender system brings great benefits to the businesses. Therefore, majority of online businesses are trying to build more accurate recommender systems.
 
-
-Likewise, forecasting future revenues plays an essential role in
-decision-making process when running a business.
 
 -----
 
 ### Objective
 
-In this project, I will build a recommender system using Deep Learning techniques in Python.
+In this project, I will build a recommender system using Deep Learning techniques in Python. 
 
 As of September 15, I started brainstorming project ideas.
 
